@@ -64,6 +64,7 @@
 - 🔨 Software Engineer (Frontend & Backend)
 - 🌍 Building my personal portfolio
 - ⚡ Focused on performance & user experience
+- 🧠 Always learning and keeping up with tech trends.
 - 👨🏽‍💻 Bulk Sms portal like <a href="https://theophilusbaker.netlify.app/" target="_blank">Mr. Baker</a>
 - 🌐 Founder of <a href="https://kyekyeku.tech" target="_blank">kyekyeku.tech</a>
 
