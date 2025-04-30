@@ -27,7 +27,7 @@
 </div>
 
 ---
-
+<p align="center" style="color: yellow;">VIEWERS COUNT:</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Kyekyeku}/count.svg" alt="Visitor count" />
 </p>
@@ -64,6 +64,8 @@
 - 🔨 Software Engineer (Frontend & Backend)
 - 🌍 Building my personal portfolio
 - ⚡ Focused on performance & user experience
+- 👨🏽‍💻 Bulk Sms portal like <a href="https://theophilusbaker.netlify.app/" target="_blank">Mr. Baker</a>
+- 🌐 Founder of <a href="https://kyekyeku.tech" target="_blank">kyekyeku.tech</a>
 
 ---
 
