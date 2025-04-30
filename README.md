@@ -1,11 +1,11 @@
 <h1 align="center">
   WELCOME 
-  <img src="https://kyekyeku.tech/my-logo.png" width="30px"/>
+  <img src="https://kyekyeku.tech/my-logo.png" width="60px"/>
   to <span style="color:#00BFFF;">KYEKYEKU-TECH</span>
 </h1>
 
 <div align="center">
-  <img src="https://kyekyeku.tech/my-logo.png" width="600" height="300"/>
+  <img src="https://i.postimg.cc/LX3F2CCy/Screenshot-2025-04-30-190758.png" width="600" height="300"/>
 </div>
 
 <p align="center">
@@ -14,17 +14,24 @@
 
 ---
 
-<div align="center" id="badges">
-  <a href="https://linkedin.com/in/your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kyekyeku-tech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@codingmidset">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  <a href="https://www.youtube.com/@codingmidset" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/kyekyekutech" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+233545454000?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kyekyeku+Repo" target="_blank">
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://kyekyeku.tech" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
 </div>
+
 
 ---
 <p align="center" style="color: yellow;">VIEWERS COUNT:</p>
