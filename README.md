@@ -1,15 +1,15 @@
-<h1 align="center">
+<h2 align="center">
   WELCOME 
   <img src="https://kyekyeku.tech/my-logo.png" width="60px"/>
   to <span style="color:#00BFFF;">KYEKYEKU-TECH</span>
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://i.postimg.cc/LX3F2CCy/Screenshot-2025-04-30-190758.png" width="600" height="300"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kyekyeku;Full+Stack+Developer+from+Ghana;Let's+Build+Modern+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kyekyeku-Tech;Full+Stack+Developer+from+Ghana;Let's+Build+Modern+Websites" alt="Typing SVG" />
 </p>
 
 ---
