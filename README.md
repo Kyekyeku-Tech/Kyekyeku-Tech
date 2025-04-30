@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Kyekyeku-Tech/count.svg" alt="Visitor count" />
+  <img src="https://profile-counter.glitch.me/{Kyekyeku}/count.svg" alt="Visitor count" />
 </p>
 
 ---
