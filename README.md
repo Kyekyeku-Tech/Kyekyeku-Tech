@@ -1,6 +1,6 @@
 <h1 align="center">
   WELCOME 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://kyekyeku.tech/my-logo.png" width="30px"/>
   to KYEKYEKU-TECH
 </h1>
 
