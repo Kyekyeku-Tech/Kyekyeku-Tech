@@ -41,11 +41,11 @@
 
 | 🧩 Project | 🌍 Live Demo | 💬 Description |
 |-------------|--------------|----------------|
-| 🐝 **Nana Bees Foundation** | [nana-beesfoundation.org](https://nana-beesfoundation.org) | Educational and humanitarian foundation website designed for impact and simplicity. |
-| 🎓 **The Nelson Foundation** | [thenelsonfoundation.netlify.app](https://thenelsonfoundation.netlify.app) | A non-profit platform empowering youth, women, and people with disabilities. |
-| 🏗️ **Ebolo Trading** | [ebolotrading.com](https://ebolotrading.com) | A corporate site offering trading, contracting, and cleaning services with ultra-modern design. |
-| 💼 **Kyekyeku Tech** | [kyekyeku.tech](https://kyekyeku.tech) | My personal tech hub and portfolio showcasing innovation and creativity. |
-| 💰 **EmbaPAYG Portal** | [embapayg.site](https://embapayg.site) | Pay-as-you-go and invoice generator with Paystack and Firebase integration. |
+| 🐝 **Nana Bees Foundation** | [nana-bee'sfoundation](https://nana-beesfoundation.org) | Educational and humanitarian foundation website designed for impact and simplicity. |
+| 🎓 **The Nelson Foundation** | [thenelsonfoundation](https://thenelsonfoundation.netlify.app) | A non-profit platform empowering youth, women, and people with disabilities. |
+| 🏗️ **Ebolo Trading** | [ebolo Trading](https://ebolotrading.com) | A corporate site offering trading, contracting, and cleaning services with ultra-modern design. |
+| 💼 **Kyekyeku Tech** | [kyekyeku Tech](https://kyekyeku.tech) | My personal tech hub and portfolio showcasing innovation and creativity. |
+| 💰 **EmbaPAYG Portal** | [Emba Payg](https://embapayg.site) | Pay-as-you-go and invoice generator with Paystack and Firebase integration. |
 | 📖 **Digital Bible App** | *(Coming Soon)* | Multi-version Bible (KJV, NIV, TWI) with search, quizzes, and prayer chat. |
 | 💵 **Cash Count App** | *(Private Project)* | Smart digital cash counter with simple UI and offline mode. |
 
