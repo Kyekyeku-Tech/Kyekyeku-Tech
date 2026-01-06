@@ -54,7 +54,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,git,github,vscode,tailwind,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode&perline=6" />
 </p>
 
 ---
@@ -69,14 +69,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kyekyeku-Tech&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyekyeku-Tech&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyekyeku-Tech&bg_color=transparent&color=38BDF8&line=0EA5E9&point=38BDF8&hide_border=true"/>
 
 ---
 
