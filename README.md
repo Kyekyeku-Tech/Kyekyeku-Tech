@@ -13,7 +13,7 @@
 
 ### 🌐 **Let’s Connect**
 
-[![Website](https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://kyekyeku.tech)
+[![Website](https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://kyekyeku-tech.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyekyeku-tech/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingmidset)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kyekyekutech)
@@ -41,11 +41,11 @@
 
 | 🧩 Project | 🌍 Live Demo | 💬 Description |
 |-------------|--------------|----------------|
-| 🐝 **Nana Bees Foundation** | [nana-bee'sfoundation](https://nana-beesfoundation.org) | Educational and humanitarian foundation website designed for impact and simplicity. |
+| 🐝 **Deonyak Hearse Service** | [Deonyak Hearse](https://deonyakhearse.com) | professional hearse services with dignity, care and precision — from mortuary to the final resting place. |
 | 🎓 **The Nelson Foundation** | [thenelsonfoundation](https://thenelsonfoundation.netlify.app) | A non-profit platform empowering youth, women, and people with disabilities. |
 | 🏗️ **Ebolo Trading** | [ebolo Trading](https://ebolotrading.com) | A corporate site offering trading, contracting, and cleaning services with ultra-modern design. |
 | 💼 **Kyekyeku Tech** | [kyekyeku Tech](https://kyekyeku-tech.site) | My personal tech hub and portfolio showcasing innovation and creativity. |
-| 💰 **EmbaPAYG Portal** | [Emba Payg](https://embapayg.site) | Pay-as-you-go and invoice generator with Paystack and Firebase integration. |
+| 💰 **EmbaPAYG Portal** | [Payg App](https:/paygapp.site) | Pay-as-you-go  for Reporting and Tracking Staff performance. |
 | 📖 **Digital Bible App** | *(Coming Soon)* | Multi-version Bible (KJV, NIV, TWI) with search, quizzes, and prayer chat. |
 | 💵 **Cash Count App** | *(Private Project)* | Smart digital cash counter with simple UI and offline mode. |
 
