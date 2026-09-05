@@ -165,6 +165,7 @@ Working with:
 | 📖 **Digital Bible App** | A multi-version Bible application featuring reading, search, quizzes, and spiritual tools. | 🟡 Building |
 | 💵 **Cash Count App** | Smart digital cash counting and financial management application. | 🔒 Private |
 | 🤖 **EduAI Africa** | AI-powered learning management platform designed for African educational institutions. | 🟡 Building |
+| 🕒 **WorkSync** | Subscription-based attendance management platform with GPS verification, branches, employee management, reports, and admin controls. | 🟢 Live |
 
 </div>
 
@@ -273,24 +274,38 @@ Improve 📈
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kyekyeku-Tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyekyeku-Tech&theme=github_dark"
+  alt="GitHub statistics"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyekyeku-Tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyekyeku-Tech&theme=github_dark"
+  alt="Most used programming languages"
+/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyekyeku-Tech&theme=tokyonight&hide_border=true" />
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyekyeku-Tech&theme=github_dark"
+  alt="GitHub profile contribution activity"
+/>
 
 </div>
-
-
 ---
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyekyeku-Tech&bg_color=0D1117&color=38BDF8&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyekyeku-Tech&theme=github_dark"
+  width="95%"
+  alt="GitHub contribution activity"
+/>
 
 </div>
 
