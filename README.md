@@ -163,7 +163,7 @@ Working with:
 | 💻 **Kyekyeku Tech** | Personal technology hub showcasing my portfolio, services, and innovation projects. | 🟢 Live |
 | 💰 **EmbaPAYG Portal** | Pay-as-you-go staff reporting and performance tracking platform. | 🟢 Live |
 | 📖 **Digital Bible App** | A multi-version Bible application featuring reading, search, quizzes, and spiritual tools. | 🟡 Building |
-| 💵 **Cash Count App** | Smart digital cash counting and financial management application. | 🔒 Private |
+| 💵 **Transact App** | Smart digital cash counting and financial management application. | 🔒 Private |
 | 🤖 **EduAI Africa** | AI-powered learning management platform designed for African educational institutions. | 🟡 Building |
 | 🕒 **WorkSync** | Subscription-based attendance management platform with GPS verification, branches, employee management, reports, and admin controls. | 🟢 Live |
 
